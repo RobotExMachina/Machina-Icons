@@ -1,4 +1,4 @@
 # Machina-IconProcessor
 SVG to PNG processor for Machina Icons
 
-Icons credits to the wonderful designer [Juliana Tennett](https://julianatennett.github.io/) :)
+Icon design credits go to the all-mighty [Juliana Tennett](https://julianatennett.github.io/) :)
