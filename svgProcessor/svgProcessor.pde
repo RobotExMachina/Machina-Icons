@@ -12,9 +12,6 @@
  Icons are not to be used or reproduced in any form without express consent 
  from the author. 
  */
-
-import java.util.Date;
-
 final String INPUT_FOLDER = "svgs";
 final String OUTPUT_FOLDER_DYNAMO = "dynamoIcons";
 final String DYNAMO_ICON_PREFIX = "MachinaDynamo.";
@@ -27,7 +24,7 @@ final String OUTPUT_FORMAT = "png";
 final boolean CREATE_CONTACTS = true;
 final color CONTACTS_BACKGROUND_GRASSHOPPER = color(210, 210, 210);
 final color CONTACTS_BACKGROUND_DYNAMO = color(61, 61, 61);
-final boolean CONTACTS_THUMBNAIL_BOX = true;
+final boolean CONTACTS_THUMBNAIL_BOX = false;
 final int CONTACTS_MARGINS = 10;
 final String CONTACTS_OUTPUT_FOLDER = "contacts";
 final int CONTACTS_COLUMNS = 8;
