@@ -12,6 +12,7 @@
  Icons are not to be used or reproduced in any form without express consent 
  from the author. 
  */
+ 
 final String INPUT_FOLDER = "svgs";
 final String OUTPUT_FOLDER_DYNAMO = "dynamoIcons";
 final String DYNAMO_ICON_PREFIX = "MachinaDynamo.";
