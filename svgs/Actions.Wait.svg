@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 355 355" enable-background="new 0 0 355 355" xml:space="preserve">
+<title>WAIT</title>
+<desc>Created with Sketch.</desc>
+<g id="v2">
+	<g id="WAIT">
+		<g id="Group-4" transform="translate(77.000000, 13.000000)">
+			<g id="Group-3" transform="translate(37.000000, 34.000000)">
+				<g id="Group">
+					<g id="Group-2">
+						
+							<polyline id="Path-12-Copy-2" fill="none" stroke="#2A2A2A" stroke-width="26.25" stroke-linecap="round" stroke-linejoin="round" points="
+							0,0 0,74 63.5,122 127,74 127,0 						"/>
+						<polygon id="Path-12-Copy-2_1_" fill="#FF6868" points="15,24.3 15,70.8 63.3,104.1 111.7,70.8 111.7,24.3 						"/>
+						
+							<polyline id="Path-12-Copy-2_2_" fill="none" stroke="#2A2A2A" stroke-width="26.25" stroke-linecap="round" stroke-linejoin="round" points="
+							0,258.8 0,184.7 63.5,136.8 127,184.7 127,258.8 						"/>
+					</g>
+					<path id="Path-2" fill="none" stroke="#FF6868" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" d="
+						M64.6,94.2v158.1"/>
+					<path id="Path-2_1_" fill="none" stroke="#FF6868" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" d="
+						M101.9,253.2H24.6"/>
+				</g>
+			</g>
+			<path id="Path-12" fill="none" stroke="#2A2A2A" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" d="M0,16h201
+				"/>
+			<path id="Path-12-Copy" fill="none" stroke="#2A2A2A" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" d="
+				M0,313h201"/>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="355px" height="355px" viewBox="0 0 355 355" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Robots.Create</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Robots.Create">
+            <g id="Group-2-+-+-Mask" transform="translate(-40.000000, 20.000000)">
+                <g id="Group-2" stroke="#2288FF" stroke-linejoin="round">
+                    <polyline id="Path-6" stroke-width="29.925" stroke-linecap="round" points="176.26378 290 12 121.81381 178.807843 13 254 97.1100738"></polyline>
+                    <polyline id="Rectangle" stroke-width="21.546" fill="#2288FF" points="116 334 116 290 212 290 212 334"></polyline>
+                    <circle id="Oval" stroke-width="15.3" fill="#FFFFFF" stroke-linecap="round" cx="23.5" cy="125.5" r="23.5"></circle>
+                    <circle id="Oval-Copy" stroke-width="15.3" fill="#FFFFFF" stroke-linecap="round" cx="176.5" cy="23.5" r="23.5"></circle>
+                    <circle id="Oval-Copy-2" stroke-width="15.3" fill="#FFFFFF" stroke-linecap="round" cx="158.5" cy="271.5" r="23.5"></circle>
+                    <polygon id="Path-2" stroke-width="15.3" fill="#2A2A2A" stroke-linecap="round" transform="translate(279.000000, 123.500000) rotate(-44.000000) translate(-279.000000, -123.500000) " points="239.921781 100.891129 242.625482 155 226 92 332 92 313.89661 155 318.078219 100.891129"></polygon>
+                </g>
+                <path d="M340.891784,242.559118 L379,242.559118 C382.865993,242.559118 386,245.693125 386,249.559118 L386,266.863727 C386,270.729721 382.865993,273.863727 379,273.863727 L340.891784,273.863727 L340.891784,317.641283 C340.891784,321.507276 337.757777,324.641283 333.891784,324.641283 L315.231463,324.641283 C311.36547,324.641283 308.231463,321.507276 308.231463,317.641283 L308.231463,273.863727 L270,273.863727 C266.134007,273.863727 263,270.729721 263,266.863727 L263,249.559118 C263,245.693125 266.134007,242.559118 270,242.559118 L308.231463,242.559118 L308.231463,201 C308.231463,197.134007 311.36547,194 315.231463,194 L333.891784,194 C337.757777,194 340.891784,197.134007 340.891784,201 L340.891784,242.559118 Z" id="+" fill="#FF6868"></path>
+            </g>
+        </g>
+    </g>
+</svg>

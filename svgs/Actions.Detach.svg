@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 355 355" enable-background="new 0 0 355 355" xml:space="preserve">
+<title>DETACH</title>
+<desc>Created with Sketch.</desc>
+<g id="v2">
+	<g id="DETACH">
+		<g id="Group-3-_x2B_-Group-4-_x2B_-Group-Mask">
+			<g id="Mask">
+			</g>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="55" y="-21" width="244" height="376">
+					<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="55" y="-21" width="244" height="376" id="mask-2">
+				<g filter="url(#Adobe_OpacityMaskFilter)">
+					<rect id="path-1" fill="#FFFFFF" width="355" height="355"/>
+				</g>
+			</mask>
+			<g id="Group-5" mask="url(#mask-2)">
+				<g transform="translate(64.000000, -12.000000)">
+					<g id="Group-3" transform="translate(91.000000, 0.000000)">
+						<polyline id="Rectangle-3" fill="#2A2A2A" stroke="#2A2A2A" stroke-width="18" stroke-linejoin="round" points="35.4,0 
+							35.4,65.1 7.5,65.1 7.5,0 7.5,0 						"/>
+						
+							<ellipse id="Oval-9" fill="none" stroke="#2A2A2A" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" cx="22" cy="88.1" rx="22" ry="21.9"/>
+					</g>
+					<g id="Group-4" transform="translate(0.000000, 160.000000)">
+						<g id="Group-2">
+							
+								<polygon id="Path-2" fill="#FF6868" stroke="#FF6868" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" points="
+								29.7,56.1 35.4,170 0,37.4 226,37.4 187.4,170 196.3,56.1 							"/>
+							
+								<rect id="Rectangle-3-Copy" x="98.5" fill="#FF6868" stroke="#FF6868" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" width="27.8" height="34.2"/>
+						</g>
+					</g>
+					
+						<g id="Group" transform="translate(114.000000, 301.500000) scale(1, -1) translate(-114.000000, -301.500000) translate(86.000000, 245.000000)">
+						<path id="Path-3" fill="none" stroke="#2288FF" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" d="
+							M28.4,112V7.5"/>
+						
+							<polyline id="Path-4" fill="none" stroke="#2288FF" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" points="
+							0,30.1 28.7,0 56,30.1 						"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
