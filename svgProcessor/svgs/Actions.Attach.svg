@@ -1,32 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 355 355" enable-background="new 0 0 355 355" xml:space="preserve">
-<title>ATTACH</title>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 355 355" xml:space="preserve">
+<title>Actions.Attach</title>
 <desc>Created with Sketch.</desc>
-<g id="v2">
-	<g id="ATTACH">
-		<g id="Group-4" transform="translate(61.000000, 0.000000)">
-			<g id="Group-2" transform="translate(0.000000, 123.000000)">
-				
-					<polygon id="Path-2" fill="#FF6868" stroke="#FF6868" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" points="
-					30.6,58.1 36.5,176 0,38.7 233,38.7 193.2,176 202.4,58.1 				"/>
-				
-					<rect id="Rectangle-3-Copy" x="101.6" fill="#FF6868" stroke="#FF6868" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" width="28.7" height="35.4"/>
-			</g>
-			<g id="Group-3" transform="translate(94.000000, 0.000000)">
-				<polyline id="Rectangle-3" fill="#2A2A2A" stroke="#2A2A2A" stroke-width="18" stroke-linejoin="round" points="36.2,0 
-					36.2,67.5 7.7,67.5 7.7,0 7.7,0 				"/>
-				
-					<ellipse id="Oval-9" fill="none" stroke="#2A2A2A" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" cx="22.5" cy="91.3" rx="22.5" ry="22.7"/>
-			</g>
-			<g id="Group" transform="translate(88.000000, 229.000000)">
-				<path id="Path-3" fill="none" stroke="#2288FF" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" d="M29,116V7
-					"/>
-				<polyline id="Path-4" fill="none" stroke="#2288FF" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" points="
-					0,31 29.2,0 57,31 				"/>
-			</g>
-		</g>
-	</g>
+<g>
+	<polygon id="Path-2" fill="#FF6868" stroke="#FF6868" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" points="
+		91.6,181.1 97.5,299 61,161.7 294,161.7 254.2,299 263.4,181.1 	"/>
+	
+		<rect id="Rectangle-3-Copy" x="162.6" y="123" fill="#FF6868" stroke="#FF6868" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" width="28.7" height="35.4"/>
+	<polyline id="Rectangle-3" fill="#2A2A2A" stroke="#2A2A2A" stroke-width="18" stroke-linejoin="round" points="191.2,0 
+		191.2,67.5 162.7,67.5 162.7,0 162.7,0 	"/>
+	
+		<ellipse id="Oval-9" fill="none" stroke="#2A2A2A" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" cx="177.5" cy="91.3" rx="22.5" ry="22.7"/>
+	<path id="Path-3" fill="none" stroke="#2288FF" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" d="M178,345V236
+		"/>
+	<polyline id="Path-4" fill="none" stroke="#2288FF" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" points="
+		149,260 178.2,229 206,260 	"/>
 </g>
 </svg>

@@ -1,44 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 355 355" xml:space="preserve">
-<g>
-	<rect id="path-1" fill="#FFFFFF" width="355" height="355"/>
-</g>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 355 355" xml:space="preserve">
 <title>MESSAGE</title>
 <desc>Created with Sketch.</desc>
-<g id="v2">
-	<g id="MESSAGE">
-		<g id="Group">
-			<g id="Mask">
-			</g>
-		</g>
-		<path id="Oval-6" fill="none" stroke="#2288FF" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" d="
-			M178.5,282.5c90.9,0,164.5-50.7,164.5-113.3S269.4,56,178.5,56S14,106.7,14,169.3c0,40.5,30.8,76,77.2,96
-			c10.3,4.5-24,56.7-12.3,59.5C95.8,328.8,159.5,282.5,178.5,282.5z"/>
-		<g id="Group_1_" transform="translate(60.000000, 125.000000)">
-			<path id="Rectangle" fill="#2A2A2A" d="M7,0h60c3.9,0,7,3.1,7,7v8c0,3.9-3.1,7-7,7H7c-3.9,0-7-3.1-7-7V7C0,3.1,3.1,0,7,0z"/>
-			<path id="Rectangle-Copy-4" fill="#2A2A2A" d="M44,36h60c3.9,0,7,3.1,7,7v8c0,3.9-3.1,7-7,7H44c-3.9,0-7-3.1-7-7v-8
-				C37,39.1,40.1,36,44,36z"/>
-			<path id="Rectangle-Copy" fill="#2A2A2A" d="M97,0h42c3.9,0,7,3.1,7,7v8c0,3.9-3.1,7-7,7H97c-3.9,0-7-3.1-7-7V7
-				C90,3.1,93.1,0,97,0z"/>
-			<path id="Rectangle-Copy-10" fill="#2A2A2A" d="M158,73h42c3.9,0,7,3.1,7,7v8c0,3.9-3.1,7-7,7h-42c-3.9,0-7-3.1-7-7v-8
-				C151,76.1,154.1,73,158,73z"/>
-			<path id="Rectangle-Copy-7" fill="#2A2A2A" d="M7,73h42c3.9,0,7,3.1,7,7v8c0,3.9-3.1,7-7,7H7c-3.9,0-7-3.1-7-7v-8
-				C0,76.1,3.1,73,7,73z"/>
-			<path id="Rectangle-Copy-6" fill="#2A2A2A" d="M132,36h42c3.9,0,7,3.1,7,7v8c0,3.9-3.1,7-7,7h-42c-3.9,0-7-3.1-7-7v-8
-				C125,39.1,128.1,36,132,36z"/>
-			<path id="Rectangle-Copy-2" fill="#2A2A2A" d="M169,0h8c3.9,0,7,3.1,7,7v8c0,3.9-3.1,7-7,7h-8c-3.9,0-7-3.1-7-7V7
-				C162,3.1,165.1,0,169,0z"/>
-			<path id="Rectangle-Copy-8" fill="#2A2A2A" d="M76,73h8c3.9,0,7,3.1,7,7v8c0,3.9-3.1,7-7,7h-8c-3.9,0-7-3.1-7-7v-8
-				C69,76.1,72.1,73,76,73z"/>
-			<path id="Rectangle-Copy-5" fill="#2A2A2A" d="M7,36h8c3.9,0,7,3.1,7,7v8c0,3.9-3.1,7-7,7H7c-3.9,0-7-3.1-7-7v-8
-				C0,39.1,3.1,36,7,36z"/>
-			<path id="Rectangle-Copy-3" fill="#2A2A2A" d="M207,0h21c3.9,0,7,3.1,7,7v8c0,3.9-3.1,7-7,7h-21c-3.9,0-7-3.1-7-7V7
-				C200,3.1,203.1,0,207,0z"/>
-			<path id="Rectangle-Copy-9" fill="#2A2A2A" d="M110,73h21c3.9,0,7,3.1,7,7v8c0,3.9-3.1,7-7,7h-21c-3.9,0-7-3.1-7-7v-8
-				C103,76.1,106.1,73,110,73z"/>
-		</g>
-	</g>
+<g>
+	<path id="Oval-6" fill="none" stroke="#2288FF" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" d="M178.5,282.5
+		c90.9,0,164.5-50.7,164.5-113.3S269.4,56,178.5,56S14,106.7,14,169.3c0,40.5,30.8,76,77.2,96c10.3,4.5-24,56.7-12.3,59.5
+		C95.8,328.8,159.5,282.5,178.5,282.5z"/>
+	<path id="Rectangle" fill="#2A2A2A" d="M67,125h60c3.9,0,7,3.1,7,7v8c0,3.9-3.1,7-7,7H67c-3.9,0-7-3.1-7-7v-8
+		C60,128.1,63.1,125,67,125z"/>
+	<path id="Rectangle-Copy-4" fill="#2A2A2A" d="M104,161h60c3.9,0,7,3.1,7,7v8c0,3.9-3.1,7-7,7h-60c-3.9,0-7-3.1-7-7v-8
+		C97,164.1,100.1,161,104,161z"/>
+	<path id="Rectangle-Copy" fill="#2A2A2A" d="M157,125h42c3.9,0,7,3.1,7,7v8c0,3.9-3.1,7-7,7h-42c-3.9,0-7-3.1-7-7v-8
+		C150,128.1,153.1,125,157,125z"/>
+	<path id="Rectangle-Copy-10" fill="#2A2A2A" d="M218,198h42c3.9,0,7,3.1,7,7v8c0,3.9-3.1,7-7,7h-42c-3.9,0-7-3.1-7-7v-8
+		C211,201.1,214.1,198,218,198z"/>
+	<path id="Rectangle-Copy-7" fill="#2A2A2A" d="M67,198h42c3.9,0,7,3.1,7,7v8c0,3.9-3.1,7-7,7H67c-3.9,0-7-3.1-7-7v-8
+		C60,201.1,63.1,198,67,198z"/>
+	<path id="Rectangle-Copy-6" fill="#2A2A2A" d="M192,161h42c3.9,0,7,3.1,7,7v8c0,3.9-3.1,7-7,7h-42c-3.9,0-7-3.1-7-7v-8
+		C185,164.1,188.1,161,192,161z"/>
+	<path id="Rectangle-Copy-2" fill="#2A2A2A" d="M229,125h8c3.9,0,7,3.1,7,7v8c0,3.9-3.1,7-7,7h-8c-3.9,0-7-3.1-7-7v-8
+		C222,128.1,225.1,125,229,125z"/>
+	<path id="Rectangle-Copy-8" fill="#2A2A2A" d="M136,198h8c3.9,0,7,3.1,7,7v8c0,3.9-3.1,7-7,7h-8c-3.9,0-7-3.1-7-7v-8
+		C129,201.1,132.1,198,136,198z"/>
+	<path id="Rectangle-Copy-5" fill="#2A2A2A" d="M67,161h8c3.9,0,7,3.1,7,7v8c0,3.9-3.1,7-7,7h-8c-3.9,0-7-3.1-7-7v-8
+		C60,164.1,63.1,161,67,161z"/>
+	<path id="Rectangle-Copy-3" fill="#2A2A2A" d="M267,125h21c3.9,0,7,3.1,7,7v8c0,3.9-3.1,7-7,7h-21c-3.9,0-7-3.1-7-7v-8
+		C260,128.1,263.1,125,267,125z"/>
+	<path id="Rectangle-Copy-9" fill="#2A2A2A" d="M170,198h21c3.9,0,7,3.1,7,7v8c0,3.9-3.1,7-7,7h-21c-3.9,0-7-3.1-7-7v-8
+		C163,201.1,166.1,198,170,198z"/>
 </g>
 </svg>

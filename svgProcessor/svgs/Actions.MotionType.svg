@@ -1,44 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 355 355" enable-background="new 0 0 355 355" xml:space="preserve">
-<title>MOTION</title>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 355 355" xml:space="preserve">
+<title>Actions.Motion</title>
 <desc>Created with Sketch.</desc>
-<g id="v2">
-	<g id="MOTION">
-		<g id="Group-4" transform="translate(17.000000, 21.000000)">
-			<g id="Group-2">
-				<path id="Rectangle-2" fill="#2A2A2A" d="M10,0h65c5.5,0,10,4.5,10,10v65c0,5.5-4.5,10-10,10H10C4.5,85,0,80.5,0,75V10
-					C0,4.5,4.5,0,10,0z"/>
-				<path id="Rectangle-2-Copy" fill="#2A2A2A" d="M245,0h65c5.5,0,10,4.5,10,10v65c0,5.5-4.5,10-10,10h-65c-5.5,0-10-4.5-10-10V10
-					C235,4.5,239.5,0,245,0z"/>
-			</g>
-			
-				<g id="Group" transform="translate(167.000000, 47.000000) rotate(-270.000000) translate(-167.000000, -47.000000) translate(125.000000, -15.000000)">
-				<path id="Path-3" fill="none" stroke="#FF6868" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" d="
-					M43.3,123.1V24"/>
-				<path id="Path-4" fill="#FF6868" d="M2.5,43.4L37.8,3.1l0,0c2.6-2.9,7-3.2,9.9-0.6C48,2.7,48.2,3,48.4,3.3l33.6,40.2l0,0
-					c2.5,3,2.1,7.4-0.9,9.9c-1.3,1.1-2.8,1.6-4.5,1.6H7.7l0,0c-3.9,0-7-3.1-7-7C0.7,46.3,1.4,44.7,2.5,43.4z"/>
-			</g>
-		</g>
-		<g id="Group-3" transform="translate(18.000000, 128.000000)">
-			<g id="Group_1_" transform="translate(0.000000, 126.000000)">
-				<path id="Rectangle-2-Copy-2" fill="#2A2A2A" d="M10,0h65c5.5,0,10,4.5,10,10v65c0,5.5-4.5,10-10,10H10C4.5,85,0,80.5,0,75V10
-					C0,4.5,4.5,0,10,0z"/>
-				<path id="Rectangle-2-Copy-3" fill="#2A2A2A" d="M245,0h65c5.5,0,10,4.5,10,10v65c0,5.5-4.5,10-10,10h-65c-5.5,0-10-4.5-10-10
-					V10C235,4.5,239.5,0,245,0z"/>
-			</g>
-			
-				<g id="Group-Copy" transform="translate(174.982253, 79.773171) rotate(-253.000000) translate(-174.982253, -79.773171) translate(122.982253, -20.726829)">
-				<path id="Path-3_1_" fill="none" stroke="#FF6868" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" d="
-					M103.9,189.4c-34.3-7.1-57.4-23.9-69.1-50.4s-9.4-53.8,7.1-81.8"/>
-				<path id="Path-4_1_" fill="#FF6868" d="M9,36.6l52.4-11.9l0,0c3.8-0.9,7.5,1.5,8.4,5.3c0.1,0.4,0.2,0.9,0.2,1.3L71.7,84l0,0
-					c0.1,3.9-2.9,7.1-6.8,7.2c-1.6,0.1-3.2-0.4-4.4-1.4L6.4,49l0,0c-3.1-2.3-3.7-6.7-1.4-9.8C6,37.9,7.4,37,9,36.6z"/>
-			</g>
-		</g>
-		
-			<path id="Path-24" opacity="0.3" fill="none" stroke="#2A2A2A" stroke-width="15" stroke-linejoin="round" enable-background="new    " d="
-			M0.6,138.9h356"/>
-	</g>
+<g>
+	<path id="Rectangle-2" fill="#2A2A2A" d="M27,21h65c5.5,0,10,4.5,10,10v65c0,5.5-4.5,10-10,10H27c-5.5,0-10-4.5-10-10V31
+		C17,25.5,21.5,21,27,21z"/>
+	<path id="Rectangle-2-Copy" fill="#2A2A2A" d="M262,21h65c5.5,0,10,4.5,10,10v65c0,5.5-4.5,10-10,10h-65c-5.5,0-10-4.5-10-10V31
+		C252,25.5,256.5,21,262,21z"/>
+	<path id="Rectangle-2-Copy-2" fill="#2A2A2A" d="M28,254h65c5.5,0,10,4.5,10,10v65c0,5.5-4.5,10-10,10H28c-5.5,0-10-4.5-10-10v-65
+		C18,258.5,22.5,254,28,254z"/>
+	<path id="Rectangle-2-Copy-3" fill="#2A2A2A" d="M263,254h65c5.5,0,10,4.5,10,10v65c0,5.5-4.5,10-10,10h-65c-5.5,0-10-4.5-10-10
+		v-65C253,258.5,257.5,254,263,254z"/>
+	<path id="Path-24" fill="none" stroke="#BFBFBF" stroke-width="15" stroke-linejoin="round" d="M0.6,138.9h356"/>
+	<path id="Stroke-1" fill="none" stroke="#FF6868" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" d="
+		M122.5,69.6h99.1"/>
+	<path id="Stroke-1_1_" fill="none" stroke="#FF6868" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" d="
+		M94.5,230.5c16.8-30.8,39.6-47.9,68.4-51.4c28.8-3.5,54.2,6.8,76.1,30.7"/>
+	<path fill="#FF6868" d="M200.1,31.6L243.5,65c2.2,1.7,2.6,4.9,0.9,7c-0.3,0.3-0.6,0.6-0.8,0.8l-42.5,34.5c-2.1,1.7-5.3,1.4-7-0.7
+		c-0.7-0.9-1.1-1.9-1.1-3.1L192,35.6c0-2.7,2.2-5,4.9-5.1C198.2,30.6,199.2,31,200.1,31.6"/>
+	<path fill="#FF6868" d="M264.2,182.9l6.9,54.3c0.4,2.7-1.6,5.3-4.3,5.6c-0.4,0-0.8,0-1.1,0l-54.4-5.8c-2.7-0.2-4.7-2.8-4.4-5.5
+		c0.1-1.1,0.6-2.1,1.4-3l47.3-48.5c1.9-2,5.1-2,7.1-0.1C263.5,180.8,264,181.8,264.2,182.9"/>
 </g>
 </svg>

@@ -1,58 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.0" id="레이어_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" viewBox="0 0 355 355" enable-background="new 0 0 355 355" xml:space="preserve">
-<title>WRITE DIGITAL</title>
+<svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 355 355" xml:space="preserve">
+<title>Actions.WriteDigital</title>
 <desc>Created with Sketch.</desc>
-<g id="v2">
-	<g id="WRITE-DIGITAL">
-		<g id="Group-_x2B_-Group-2-Mask">
-			<g id="Mask">
-			</g>
-			<defs>
-				<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="-19" y="204" width="392" height="134.5">
-					<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
-				</filter>
-			</defs>
-			<mask maskUnits="userSpaceOnUse" x="-19" y="204" width="392" height="134.5" id="mask-2_1_">
-				<g filter="url(#Adobe_OpacityMaskFilter)">
-					<rect id="path-1_1_" fill="#FFFFFF" width="355" height="355"/>
-				</g>
-			</mask>
-			<g id="Group" mask="url(#mask-2_1_)">
-				<g transform="translate(-2.000000, 220.000000)">
-					<path id="Path-14" fill="none" stroke="#2A2A2A" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" d="M0,1
-						h358"/>
-					<path id="Path-14-Copy" fill="none" stroke="#2A2A2A" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" d="
-						M0,101h358"/>
-					<path id="Path-14-Copy-2" fill="none" stroke="#2A2A2A" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" d="
-						M81,101.5V2"/>
-					<path id="Path-14-Copy-3" fill="none" stroke="#2A2A2A" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" d="
-						M178,101.5V2"/>
-					<path id="Path-14-Copy-4" fill="none" stroke="#2A2A2A" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" d="
-						M275,101.5V2"/>
-					<rect id="Rectangle-8" x="97" y="17" fill="#2288FF" width="64" height="68"/>
-				</g>
-			</g>
-			<defs>
-				<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="92" y="14" width="171" height="171">
-					<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
-				</filter>
-			</defs>
-			<mask maskUnits="userSpaceOnUse" x="92" y="14" width="171" height="171" id="mask-2_2_">
-				<g filter="url(#Adobe_OpacityMaskFilter_1_)">
-					<rect id="path-1_2_" fill="#FFFFFF" width="355" height="355"/>
-				</g>
-			</mask>
-			<g id="Group-2" mask="url(#mask-2_2_)">
-				<g id="Oval" transform="translate(108.000000, 30.000000)">
-					
-						<circle fill="none" stroke="#FF6868" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" cx="69.5" cy="69.5" r="68.5"/>
-					<path fill="#FF6868" d="M118.8,22C106.3,8.5,88.4,0,68.5,0C30.7,0,0,30.7,0,68.5c0,19.4,8.1,37,21.1,49.4
-						C21.4,118.3,119.5,22.1,118.8,22z"/>
-				</g>
-			</g>
-		</g>
-	</g>
+<g>
+	<path id="Path-14" fill="none" stroke="#2A2A2A" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" d="M-2,221h358
+		"/>
+	<path id="Path-14-Copy" fill="none" stroke="#2A2A2A" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" d="
+		M-2,321h358"/>
+	<path id="Path-14-Copy-2" fill="none" stroke="#2A2A2A" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" d="
+		M79,321.5V222"/>
+	<path id="Path-14-Copy-3" fill="none" stroke="#2A2A2A" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" d="
+		M176,321.5V222"/>
+	<path id="Path-14-Copy-4" fill="none" stroke="#2A2A2A" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" d="
+		M273,321.5V222"/>
+	<rect id="Rectangle-8" x="95" y="237" fill="#2288FF" width="64" height="68"/>
+	
+		<circle id="Oval" fill="none" stroke="#FF6868" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" cx="177.5" cy="99.5" r="68.5"/>
+	<path id="Oval_1_" fill="#FF6868" d="M226.8,52c-12.5-13.5-30.4-22-50.3-22C138.7,30,108,60.7,108,98.5c0,19.4,8.1,37,21.1,49.4
+		C129.4,148.3,227.5,52.1,226.8,52z"/>
 </g>
 </svg>

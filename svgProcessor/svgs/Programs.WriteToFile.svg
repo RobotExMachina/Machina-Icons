@@ -1,30 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 355 355" enable-background="new 0 0 355 355" xml:space="preserve">
-<title>WRITE TO FILE</title>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 355 355" xml:space="preserve">
+<title>Programs.WriteToFile</title>
 <desc>Created with Sketch.</desc>
-<g id="v2">
-	<g id="WRITE-TO-FILE">
-		<g id="Group" transform="translate(86.000000, 186.000000)">
-			
-				<polyline id="Rectangle" fill="none" stroke="#2288FF" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" points="
-				0,116 0,0 142.1,0 142.1,116 142.1,116 			"/>
-			<path id="Path-23-Copy" fill="none" stroke="#2288FF" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" d="
-				M32,65.5h74.6"/>
-			<path id="Path-23-Copy-2" fill="none" stroke="#2288FF" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" d="
-				M32,90h74.6"/>
-			<path id="Path-23" fill="none" stroke="#2288FF" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" d="M32,41
-				h74.6"/>
-		</g>
-		
-			<polygon id="Rectangle-6" fill="none" stroke="#2288FF" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" points="
-			38,38 253,38 305,105.7 305,317 38,317 		"/>
-		
-			<polyline id="Rectangle_1_" fill="none" stroke="#2288FF" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" points="
-			217,48 217,124 86,124 86,48 		"/>
-		<path id="Rectangle-7" fill="#2288FF" d="M145,48h35c3.3,0,6,2.7,6,6v52c0,3.3-2.7,6-6,6h-35c-3.3,0-6-2.7-6-6V54
-			C139,50.7,141.7,48,145,48z"/>
-	</g>
+<g>
+	<polyline id="Rectangle" fill="none" stroke="#2288FF" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" points="
+		86,302 86,186 228.1,186 228.1,302 228.1,302 	"/>
+	<path id="Path-23-Copy" fill="none" stroke="#2288FF" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" d="
+		M118,251.5h74.6"/>
+	<path id="Path-23-Copy-2" fill="none" stroke="#2288FF" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" d="
+		M118,276h74.6"/>
+	<path id="Path-23" fill="none" stroke="#2288FF" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" d="M118,227
+		h74.6"/>
+	
+		<polygon id="Rectangle-6" fill="none" stroke="#2288FF" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" points="
+		38,38 253,38 305,105.7 305,317 38,317 	"/>
+	
+		<polyline id="Rectangle_1_" fill="none" stroke="#2288FF" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" points="
+		217,48 217,124 86,124 86,48 	"/>
+	<path id="Rectangle-7" fill="#2288FF" d="M145,48h35c3.3,0,6,2.7,6,6v52c0,3.3-2.7,6-6,6h-35c-3.3,0-6-2.7-6-6V54
+		C139,50.7,141.7,48,145,48z"/>
 </g>
 </svg>
