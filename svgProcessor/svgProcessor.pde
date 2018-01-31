@@ -13,11 +13,11 @@
  from the author (Juliana).
  
  TODO: 
-   - [ ] Add clear output folders before exporting to clean up icons with obsolete names
+   - [x] Add clear output folders before exporting to clean up icons with obsolete names
    - [ ] Light gray doesn't look great on GH, darken it?
  */
  
-final String INPUT_FOLDER = "svgs";
+final String INPUT_FOLDER = "../svgs";
 final String OUTPUT_FORMAT = "png";
 final boolean CLEAR_OUTPUT_FOLDER = true;  // clean output folders before exporting icons?
 
@@ -54,12 +54,11 @@ void setup() {
   ghPath = sketchPath + File.separator + OUTPUT_FOLDER_GRASSHOPPER;
   
   if (CLEAR_OUTPUT_FOLDER) {
-    //clearFolder(dynamoPath);
+    clearFolder(dynamoPath);
     clearFolder(ghPath);
   }
 
-  //File svgFiles = new File(svgPath);
-  //processSVGs(svgFiles);
+  processSVGs(new File(svgPath));
 }
 
 
