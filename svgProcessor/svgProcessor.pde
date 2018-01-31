@@ -10,7 +10,11 @@
  Icon design credits to Juliana Tennett: https://julianatennett.github.io
  
  Icons are not to be used or reproduced in any form without express consent 
- from the author. 
+ from the author (Juliana).
+ 
+ TODO: 
+   - [ ] Add clear output folders before exporting to clean up icons with obsolete names
+   - [ ] Light gray doesn't look great on GH, darken it?
  */
  
 final String INPUT_FOLDER = "svgs";
