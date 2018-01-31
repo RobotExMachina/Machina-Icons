@@ -18,21 +18,8 @@
  */
  
 final String INPUT_FOLDER = "svgs";
-final String OUTPUT_FOLDER_DYNAMO = "dynamoIcons";
-final String DYNAMO_ICON_PREFIX = "MachinaDynamo.";
-final int ICONSIZE_DYNAMO_LARGE = 128;
-final int ICONSIZE_DYNAMO_SMALL = 32;
-final String OUTPUT_FOLDER_GRASSHOPPER = "ghIcons";
-final int ICONSIZE_GRASSHOPPER = 24;
 final String OUTPUT_FORMAT = "png";
-
-final boolean CREATE_CONTACTS = true;
-final color CONTACTS_BACKGROUND_GRASSHOPPER = color(210, 210, 210);
-final color CONTACTS_BACKGROUND_DYNAMO = color(61, 61, 61);
-final boolean CONTACTS_THUMBNAIL_BOX = false;
-final int CONTACTS_MARGINS = 10;
-final String CONTACTS_OUTPUT_FOLDER = "contacts";
-final int CONTACTS_COLUMNS = 8;
+final boolean CLEAR_OUTPUT_FOLDER = true;  // clean output folders before exporting icons?
 
 final color BLACK = #2A2A2A;
 final color WHITE = #FFFFFF;
@@ -41,6 +28,23 @@ final color RED = #FF6868;
 final color BLUE = #2288FF;
 final color GREEN = #00FF00;
 
+final String OUTPUT_FOLDER_DYNAMO = "dynamoIcons";
+final String DYNAMO_ICON_PREFIX = "MachinaDynamo.";
+final int ICONSIZE_DYNAMO_LARGE = 128;
+final int ICONSIZE_DYNAMO_SMALL = 32;
+final color CONTACTS_BACKGROUND_DYNAMO = color(61, 61, 61);
+
+final String OUTPUT_FOLDER_GRASSHOPPER = "ghIcons";
+final int ICONSIZE_GRASSHOPPER = 24;
+final color CONTACTS_BACKGROUND_GRASSHOPPER = color(210, 210, 210);
+
+final boolean CREATE_CONTACTS = true;
+final boolean CONTACTS_THUMBNAIL_BOX = false;
+final int CONTACTS_MARGINS = 10;
+final String CONTACTS_OUTPUT_FOLDER = "contacts";
+final int CONTACTS_COLUMNS = 8;
+
+
 String sketchPath, svgPath, ghPath, dynamoPath;
 
 void setup() {
@@ -48,9 +52,14 @@ void setup() {
   svgPath = sketchPath + File.separator + INPUT_FOLDER;
   dynamoPath = sketchPath + File.separator + OUTPUT_FOLDER_DYNAMO;
   ghPath = sketchPath + File.separator + OUTPUT_FOLDER_GRASSHOPPER;
+  
+  if (CLEAR_OUTPUT_FOLDER) {
+    //clearFolder(dynamoPath);
+    clearFolder(ghPath);
+  }
 
-  File svgFiles = new File(svgPath);
-  processSVGs(svgFiles);
+  //File svgFiles = new File(svgPath);
+  //processSVGs(svgFiles);
 }
 
 
@@ -284,4 +293,13 @@ PShape replaceFill(PShape shape, color source, color target, String tracker) {
     }
   }
   return shape;
+}
+
+void clearFolder(String path) {
+  File folder = new File(path);
+  File[] files = folder.listFiles();
+  for (File f : files) {
+    f.delete();
+  }
+  println("Cleared folder " + path);
 }
