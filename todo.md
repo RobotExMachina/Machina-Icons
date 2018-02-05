@@ -1,4 +1,4 @@
 - [x] Clear the output folders before exporting PNGs again @garciadelcastillo
-- [ ] Content of the `Message` bubble should be read: it is input data @juliana
+- [ ] Content of the `Message` bubble should be red: it is input data @juliana
 - [ ] The tool drawing in `Detach` should be light gray: it is not input data, just a (departing) result of the Action @juliana
 - [ ] Let's use the same boolean symbol from `WriteDigital` in `Extrude` @juliana
