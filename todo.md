@@ -2,3 +2,4 @@
 - [ ] Content of the `Message` bubble should be red: it is input data @juliana
 - [ ] The tool drawing in `Detach` should be light gray: it is not input data, just a (departing) result of the Action @juliana
 - [ ] Let's use the same boolean symbol from `WriteDigital` in `Extrude` @juliana
+- [ ] Create a `Combine` icon, for an `Action` that merges/combines two or more `Actions` into one. 
