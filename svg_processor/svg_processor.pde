@@ -17,7 +17,7 @@
    - [ ] Light gray doesn't look great on GH, darken it?
  */
  
-final String INPUT_FOLDER = "../svgs";
+final String INPUT_FOLDER = "../../01_source_svgs";
 final String OUTPUT_FORMAT = "png";
 final boolean CLEAR_OUTPUT_FOLDER = true;  // clean output folders before exporting icons?
 
