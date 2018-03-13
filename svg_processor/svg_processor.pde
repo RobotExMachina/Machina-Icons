@@ -17,10 +17,11 @@
    - [ ] Light gray doesn't look great on GH, darken it?
  */
  
-final String INPUT_FOLDER = "../../01_source_svgs";
+final String INPUT_FOLDER = "../source_svgs";
 final String OUTPUT_FORMAT = "png";
 final boolean CLEAR_OUTPUT_FOLDER = true;  // clean output folders before exporting icons?
 
+// SVG colors
 final color BLACK = #2A2A2A;
 final color WHITE = #FFFFFF;
 final color GREY = #2A2A2A;
@@ -28,16 +29,24 @@ final color RED = #FF6868;
 final color BLUE = #2288FF;
 final color GREEN = #00FF00;
 
+// GENERIC icons
+final String OUTPUT_FOLDER_GENERIC = "genericIcons";
+final int ICONSIZE_GENERIC = 256;
+final color CONTACTS_BACKGROUND_GENERIC = color(255);
+
+// DYNAMO icons
 final String OUTPUT_FOLDER_DYNAMO = "dynamoIcons";
 final String DYNAMO_ICON_PREFIX = "MachinaDynamo.";
 final int ICONSIZE_DYNAMO_LARGE = 128;
 final int ICONSIZE_DYNAMO_SMALL = 32;
-final color CONTACTS_BACKGROUND_DYNAMO = color(61, 61, 61);
+final color CONTACTS_BACKGROUND_DYNAMO = color(61);
 
+// GRASSHOPPER icons
 final String OUTPUT_FOLDER_GRASSHOPPER = "ghIcons";
 final int ICONSIZE_GRASSHOPPER = 24;
-final color CONTACTS_BACKGROUND_GRASSHOPPER = color(210, 210, 210);
+final color CONTACTS_BACKGROUND_GRASSHOPPER = color(210);
 
+// CONTACTS
 final boolean CREATE_CONTACTS = true;
 final boolean CONTACTS_THUMBNAIL_BOX = false;
 final int CONTACTS_MARGINS = 10;
@@ -94,6 +103,17 @@ void processSVGs(File selection) {
     //println(filePath + " " + fileName + " " + fileNameMain + " " + fileExtension);
 
     PShape shape = loadShape(filePath);
+    
+    // OUTPUT GENERIC ICONS
+    outputPath = sketchPath + File.separator + 
+      OUTPUT_FOLDER_GENERIC + File.separator + 
+      fileNameMain + "." + OUTPUT_FORMAT;
+    pg = createGraphics(ICONSIZE_GENERIC, ICONSIZE_GENERIC);
+    pg.beginDraw();
+    pg.shape(shape, 0, 0, ICONSIZE_GENERIC, ICONSIZE_GENERIC);
+    println("Saving to " + outputPath);
+    pg.save(outputPath);
+    pg.endDraw();
 
     // OUTPUT GRASSHOPPER ICONS
     outputPath = sketchPath + File.separator + 
@@ -137,6 +157,44 @@ void processSVGs(File selection) {
 
   if (CREATE_CONTACTS) {
     PImage img;
+    
+    // GENERIC CONTACTS
+    String genericPath = outputPath = sketchPath + File.separator + OUTPUT_FOLDER_GENERIC;
+    File genericFolder = new File(genericPath);
+    File[] genericIcons = genericFolder.listFiles();
+    println("Creating contact for " + genericIcons.length + " GENERIC icons");
+
+    int rowCount = ceil((float) genericIcons.length / CONTACTS_COLUMNS);
+    int windowWidth = (1 + CONTACTS_COLUMNS) * CONTACTS_MARGINS + CONTACTS_COLUMNS * ICONSIZE_GENERIC;
+    int windowHeight = (1 + rowCount) * CONTACTS_MARGINS + rowCount * ICONSIZE_GENERIC;
+    pg = createGraphics(windowWidth, windowHeight);
+    pg.beginDraw();
+    pg.background(CONTACTS_BACKGROUND_GENERIC);
+
+    int x = CONTACTS_MARGINS, 
+      y = CONTACTS_MARGINS;
+    for (File f : genericIcons) {
+      img = loadImage(f.getPath());
+      pg.image(img, x, y);
+
+      if (CONTACTS_THUMBNAIL_BOX) {
+        pg.stroke(0, 63);
+        pg.noFill();
+        pg.rect(x, y, ICONSIZE_GENERIC, ICONSIZE_GENERIC);
+      }
+      
+      x += ICONSIZE_GENERIC + CONTACTS_MARGINS;
+      if (x >= pg.width) {
+        x = CONTACTS_MARGINS;
+        y += ICONSIZE_GENERIC + CONTACTS_MARGINS;
+      }
+    }
+
+    outputPath = sketchPath + File.separator + 
+      CONTACTS_OUTPUT_FOLDER + File.separator + 
+      "MachinaIcons_Generic.png";
+    pg.save(outputPath);
+    pg.endDraw();
 
     // GRASSHOPPER CONTACTS
     String ghPath = outputPath = sketchPath + File.separator + OUTPUT_FOLDER_GRASSHOPPER;
@@ -144,15 +202,15 @@ void processSVGs(File selection) {
     File[] ghIcons = ghFolder.listFiles();
     println("Creating contact for " + ghIcons.length + " GH icons");
 
-    int rowCount = ceil((float) ghIcons.length / CONTACTS_COLUMNS);
-    int windowWidth = (1 + CONTACTS_COLUMNS) * CONTACTS_MARGINS + CONTACTS_COLUMNS * ICONSIZE_GRASSHOPPER;
-    int windowHeight = (1 + rowCount) * CONTACTS_MARGINS + rowCount * ICONSIZE_GRASSHOPPER;
+    rowCount = ceil((float) ghIcons.length / CONTACTS_COLUMNS);
+    windowWidth = (1 + CONTACTS_COLUMNS) * CONTACTS_MARGINS + CONTACTS_COLUMNS * ICONSIZE_GRASSHOPPER;
+    windowHeight = (1 + rowCount) * CONTACTS_MARGINS + rowCount * ICONSIZE_GRASSHOPPER;
     pg = createGraphics(windowWidth, windowHeight);
     pg.beginDraw();
     pg.background(CONTACTS_BACKGROUND_GRASSHOPPER);
 
-    int x = CONTACTS_MARGINS, 
-      y = CONTACTS_MARGINS;
+    x = CONTACTS_MARGINS; 
+    y = CONTACTS_MARGINS;
     for (File f : ghIcons) {
       img = loadImage(f.getPath());
       pg.image(img, x, y);
@@ -296,6 +354,10 @@ PShape replaceFill(PShape shape, color source, color target, String tracker) {
 
 void clearFolder(String path) {
   File folder = new File(path);
+  if (!folder.exists()) {
+    boolean result = folder.mkdirs();
+    println("Created " + path + " --> " + result);
+  }
   File[] files = folder.listFiles();
   for (File f : files) {
     f.delete();
