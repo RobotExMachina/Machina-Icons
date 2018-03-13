@@ -10,10 +10,10 @@ Icon design credits go to the all-mighty [Juliana Tennett](https://github.com/Ju
 ## CURRENT VERSION
 
 ### DYNAMO (LARGE)
-![](https://github.com/garciadelcastillo/Machina-IconProcessor/blob/master/svgProcessor/contacts/MachinaIcons_Dynamo_Large.png)
+![](https://github.com/garciadelcastillo/Machina-IconProcessor/blob/master/svg_processor/contacts/MachinaIcons_Dynamo_Large.png)
 
 ### DYNAMO (SMALL)
-![](https://github.com/garciadelcastillo/Machina-IconProcessor/blob/master/svgProcessor/contacts/MachinaIcons_Dynamo_Small.png)
+![](https://github.com/garciadelcastillo/Machina-IconProcessor/blob/master/svg_processor/contacts/MachinaIcons_Dynamo_Small.png)
 
 ### GRASSHOPPER
-![](https://github.com/garciadelcastillo/Machina-IconProcessor/blob/master/svgProcessor/contacts/MachinaIcons_Grasshopper.png)
+![](https://github.com/garciadelcastillo/Machina-IconProcessor/blob/master/svg_processor/contacts/MachinaIcons_Grasshopper.png)
