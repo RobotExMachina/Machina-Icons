@@ -1,4 +1,4 @@
-# Machina-Icons
+# Machina Icons
 
 ![](https://github.com/RobotExMachina/Machina-Icons/blob/master/svg_processor/contacts/MachinaIcons_Generic.png)
 
