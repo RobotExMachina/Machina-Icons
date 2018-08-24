@@ -83,8 +83,6 @@ void processSVGs(File selection) {
   int sepIndex;
 
   PGraphics pg;
-  
-  clearFolder(sketchPath + File.separator + OUTPUT_FOLDER_GENERIC);
 
   int it = 0;
   for (File f : files) {
