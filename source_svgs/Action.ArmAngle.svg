@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 355 355" xml:space="preserve">
+<g>
+	<line fill="none" stroke="#BFBFBF" stroke-width="15" stroke-linejoin="round" x1="176.4" y1="50.8" x2="176.4" y2="62.3"/>
+	
+		<line fill="none" stroke="#BFBFBF" stroke-width="15" stroke-linejoin="round" stroke-dasharray="20.9545,20.9545" x1="176.4" y1="83.3" x2="176.4" y2="282.3"/>
+	<line fill="none" stroke="#BFBFBF" stroke-width="15" stroke-linejoin="round" x1="176.4" y1="292.8" x2="176.4" y2="304.3"/>
+</g>
+<line fill="#FFFFFF" stroke="#FF6868" stroke-width="33.25" stroke-linecap="round" stroke-linejoin="round" x1="176.4" y1="304.3" x2="260.9" y2="177.5"/>
+<line fill="#FFFFFF" stroke="#FF6868" stroke-width="33.25" stroke-linecap="round" stroke-linejoin="round" x1="176.4" y1="50.8" x2="260.9" y2="177.5"/>
+<circle id="Oval-Copy-2_5_" fill="#FFFFFF" stroke="#FF6868" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" cx="260.9" cy="177.5" r="23.5"/>
+<line fill="none" stroke="#2A2A2A" stroke-width="33.25" stroke-linecap="round" stroke-linejoin="round" x1="177.5" y1="50.8" x2="177.5" y2="-48.7"/>
+<line fill="none" stroke="#2A2A2A" stroke-width="33.25" stroke-linecap="round" stroke-linejoin="round" x1="177.5" y1="304.3" x2="177.5" y2="385.3"/>
+<line fill="none" stroke="#2A2A2A" stroke-width="33.25" stroke-linecap="round" stroke-linejoin="round" x1="177.5" y1="304.3" x2="93" y2="177.5"/>
+<line fill="none" stroke="#2A2A2A" stroke-width="33.25" stroke-linecap="round" stroke-linejoin="round" x1="177.5" y1="50.8" x2="93" y2="177.5"/>
+<title>Actions.Axes</title>
+<desc>Created with Sketch.</desc>
+<circle id="Oval-Copy-2_2_" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" cx="177.5" cy="304.3" r="23.5"/>
+<circle id="Oval-Copy-2_3_" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" cx="177.5" cy="50.8" r="23.5"/>
+<circle id="Oval-Copy-2_4_" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" cx="93" cy="177.5" r="23.5"/>
+<g>
+	<path id="Stroke-1_1_" fill="none" stroke="#2288FF" stroke-width="15.5" stroke-linecap="round" stroke-linejoin="round" d="
+		M57,264.9c6.2,15.9,15.9,30.6,29.2,43c46.7,43.5,119.2,41.4,162.2-4.6c22.3-24.2,32.2-55.5,29.9-86.1"/>
+	
+		<polyline id="Stroke-3_1_" fill="none" stroke="#2288FF" stroke-width="15.5" stroke-linecap="round" stroke-linejoin="round" points="
+		258.9,229.8 279.6,212.3 296.3,233.8 	"/>
+</g>
+</svg>
